@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         val git = Git()
 
         println(git.a)
+
+        val a = "This is for git"
     }
 }
